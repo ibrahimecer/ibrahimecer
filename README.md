@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İbrahim Ecer</h1>
 <h3 align="center">I am a student at Ecole 42. I'm so curious to learn all about data! Currently, I am trying to improve myself in C, C++ and Python languages. Do not hesitate to contact me, even if it is to ask a question or teach me something!</h3>
 
-- 🔭 I’m currently working on **C, C++, Python**
+- 🔭 I’m currently working on **C, C++, Python, Go, JavaScript**
 
 - 📫 How to reach me **ibrahimecerbmm@gmail.com**
 
